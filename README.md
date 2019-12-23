@@ -1,3 +1,4 @@
+![HackerNews](https://medialab.github.io/artoo/public/img/hackernews.png)
 
 # Hacker News Project
 What type of Hacker News posts are most likely to generate user interaction?
